@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Please go to DeadwoodJedi's discord for help and only create bugs here after you asked questions there.
+about: Please go to DeadwoodJedi's Discord (https://discord.gg/xGreJuH) for help and only create bugs here after you asked questions there. 
 title: ''
 labels: traige
 assignees: mitchelkuijpers
